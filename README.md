@@ -10,3 +10,6 @@ Comandos:
 
 
 ->Aplicar filtros: bin/aurras transform (input) (output) (filtros) 
+
+
+Nota final: 11
